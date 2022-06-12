@@ -40,7 +40,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 [docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
  
   
-<h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
+<h2 <b>本仓库原地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
 
 <b>【Gitee 仓库地址(方便国内小伙伴访问)】https://gitee.com/exting/QLDependency </b> <br>
@@ -154,6 +154,13 @@ docker exec -it qinglong bash -c "$(curl -fsSL https://raw.githubusercontent.com
 ```
 
 
+**【更新】** 版本号 2.12+ 的新版本青龙安装失败请尝试：
+
+```bash
+
+docker exec -it qinglong bash -c "$(curl -fsSL https://raw.githubusercontent.com/FlechazoPh/QLDependency/main/Shell/XinQLOneKey.sh | sh)"
+
+```
 
 
 ## 具体执行方法：
