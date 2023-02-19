@@ -54,7 +54,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 ### ⭐ 推荐收藏项目
 * [AwesomeScripts - 自用 Quantumult X 脚本](https://github.com/FlechazoPh/AwesomeScripts)
-* **我最近新开发上线的壁纸头像小程序作品-【情侣头像精选库】**，欢迎扫码体验~ 
+* **我最近新开发上线的壁纸头像小程序作品-【情侣头像精选库】**，欢迎扫码支持体验~ 
 <td align="center">
   <img src=https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png width=40% />
 </td>
@@ -63,11 +63,15 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <br>
 <br>
 
-### 🚀 稳定自用三年机场及Netflix流媒体合租平台推荐：（2022.01.15更新）
-* [🏆 Windscribe - Free VPN and Ad Block](https://windscribe.com/yo/pc47smnk) - **优点有免费 手机APP，不需要配置 SSR**，直接连接，每月免费2G流量，APP 下载
+### 🚀 稳定自用 IPA 个人签名证书及Netflix流媒体合租平台推荐：（2023.01.05 更新）
 
-* [🥈 比特云-Bitcloud](https://bit.ly/33yDAQM)
-* [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://bit.ly/netflix-ihezu)
+* [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的证书来自全球多个国家，避免了苹果的封锁，随时轻松获取P12证书。价格便宜。
+
+* [📱 PikPak - 极速秒存的私密云盘](https://toapp.mypikpak.com/activity/invited?code=47829232) - ⬅️ PikPak 是用过最好的磁力下载软件，转存也很方便. 注册获得 10TB 无限存储空间
+
+* [🥈 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
+
+* [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -194,7 +198,7 @@ docker exec -it qinglong bash -c "$(curl -fsSL https://ghproxy.com/https://raw.g
 
 ```bash
 
-Docker restart qinglong
+docker restart qinglong
 
 ```
 
